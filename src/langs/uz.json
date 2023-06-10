@@ -1,0 +1,15 @@
+{
+    "title": "uz",
+    "nav":{
+        "vacancies": "Vakansiyalar",
+        "cv": "Rezyumelar",
+        "sign": "kirish"
+    },
+    "home_top":{
+        "text1": "ORZUYINGIZDAGI ISHNI",
+        "text2": "ORQALI TOPING",
+        "text3": "O'zbekiston uchun qulay FINDWORK loyiha!",
+        "sign": "kirish",
+        "vacancies": "Vakansiyalar"
+    }
+}
