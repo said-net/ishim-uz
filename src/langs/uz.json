@@ -11,5 +11,30 @@
         "text3": "O'zbekiston uchun qulay FINDWORK loyiha!",
         "sign": "kirish",
         "vacancies": "Vakansiyalar"
+    },
+    "home_center": {
+        "text1": "BIR VAQTNING O'ZIDA",
+        "text2": "BIR NECHTA ARIZA!",
+        "text3": "Bir necha ish o'rni uchun hech qiyinchiliksiz ariza topshirishingiz mumkin!",
+        "btn1":"Sinab ko'rish"
+    },
+    "sign":{
+        "name": "Ismingiz",
+        "company": "Kompaniya nomi",
+        "email": "Emailingiz",
+        "password": "Parolingiz",
+        "repassword": "Parolni qaytaring",
+        "in": "Kirish",
+        "up": "Ro'yhatdan o'tish",
+        "worker": "Ishchi",
+        "comp": "Kompaniya",
+        "quest": "Masala javobi",
+        "back": "Ortga",
+        "invalid_name": "Ismingizni to'g'ri kiriting!",
+        "invalid_email": "Emailni to'g'ri kiriting!",
+        "invalid_password": "Parolda harf va raqam qatnashishi kerak va kamida 6 ta ishora bo'lishi kerak",
+        "invalid_repassword": "Parollar birhil emas!",
+        "email_worked":"Email avval ro'yhatdan o'tgan!",
+        "link_sended": "Emailingizga tasdiqlash habari yuborildi! Iltimos pochtangizni tekshiring!"
     }
 }

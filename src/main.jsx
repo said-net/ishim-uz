@@ -3,10 +3,12 @@ import Navbar from "./components/navbar";
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import Home from "./pages/home";
+import SignIn from "./components/signin";
 function Main() {
     return (
         <>
             <Navbar />
+            <SignIn/>
             <Routes>
                 <Route path="*" element={<Home />} />
             </Routes>
